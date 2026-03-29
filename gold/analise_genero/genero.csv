@@ -1,0 +1,451 @@
+sex,country,total
+Female,Algeria,3
+Female,Argentina,96
+Female,Australasia,2
+Female,Australia,607
+Female,Austria,117
+Female,Azerbaijan,13
+Female,Bahrain,4
+Female,Belarus,86
+Female,Belgium,28
+Female,Bermuda,1
+Female,Bohemia,2
+Female,Brazil,164
+Female,Bulgaria,141
+Female,Burundi,1
+Female,Cameroon,3
+Female,Canada,706
+Female,Chile,1
+Female,Chinese Taipei,26
+Female,Colombia,17
+Female,Costa Rica,4
+Female,Croatia,16
+Female,Cuba,108
+Female,Czechia,55
+Female,Czechoslovakia,89
+Female,Côte d'Ivoire,2
+Female,Democratic People's Republic of Korea,35
+Female,Denmark,115
+Female,Dominican Republic,4
+Female,East Germany,456
+Female,Ecuador,2
+Female,Egypt,7
+Female,Estonia,10
+Female,Ethiopia,26
+Female,Fiji,13
+Female,Finland,175
+Female,France,319
+Female,Georgia,1
+Female,Germany,776
+Female,Great Britain,505
+Female,Greece,41
+Female,"Hong Kong, China",9
+Female,Hungary,291
+Female,Iceland,1
+Female,Independent Olympic Athletes,2
+Female,India,8
+Female,Indonesia,20
+Female,Ireland,13
+Female,Islamic Republic of Iran,1
+Female,Israel,9
+Female,Italy,274
+Female,Jamaica,112
+Female,Japan,412
+Female,Kazakhstan,21
+Female,Kenya,29
+Female,Kosovo,3
+Female,Kyrgyzstan,2
+Female,Latvia,3
+Female,Liechtenstein,6
+Female,Lithuania,12
+Female,Malaysia,4
+Female,Mexico,23
+Female,Mongolia,6
+Female,Montenegro,15
+Female,Morocco,4
+Female,Mozambique,2
+Female,Namibia,1
+Female,Netherlands,529
+Female,New Zealand,93
+Female,Nigeria,22
+Female,Norway,294
+Female,People's Republic of China,781
+Female,Peru,12
+Female,Philippines,3
+Female,Poland,159
+Female,Portugal,7
+Female,Puerto Rico,2
+Female,ROC,127
+Female,Republic of Korea,347
+Female,Romania,357
+Female,Russian Federation,520
+Female,Russian Olympic Committee,127
+Female,Samoa,1
+Female,San Marino,2
+Female,Serbia,43
+Female,Serbia and Montenegro,4
+Female,Singapore,7
+Female,Slovakia,15
+Female,Slovenia,24
+Female,South Africa,28
+Female,Soviet Union,701
+Female,Spain,160
+Female,Sri Lanka,1
+Female,Sweden,295
+Female,Switzerland,137
+Female,Syrian Arab Republic,1
+Female,Tajikistan,1
+Female,Thailand,19
+Female,The Bahamas,15
+Female,Tunisia,3
+Female,Turkmenistan,1
+Female,Türkiye,11
+Female,Uganda,1
+Female,Ukraine,127
+Female,Unified Team,124
+Female,United States,2169
+Female,Uzbekistan,2
+Female,Venezuela,5
+Female,Vietnam,1
+Female,West Germany,145
+Female,Yugoslavia,60
+Female,Zimbabwe,23
+M,AIN,3
+M,Albania,2
+M,Algeria,1
+M,Argentina,1
+M,Armenia,4
+M,Australia,20
+M,Austria,2
+M,Azerbaijan,7
+M,Bahrain,2
+M,Belgium,5
+M,Botswana,2
+M,Brazil,7
+M,Bulgaria,5
+M,Cabo Verde,1
+M,Canada,9
+M,Chile,1
+M,China,34
+M,Chinese Taipei,3
+M,Colombia,2
+M,Croatia,3
+M,Cuba,6
+M,Cyprus,1
+M,Czechia,3
+M,Côte d'Ivoire,1
+M,DPR Korea,1
+M,Denmark,5
+M,Dominican Republic,2
+M,Ecuador,1
+M,Egypt,2
+M,Ethiopia,2
+M,Fiji,1
+M,France,38
+M,Georgia,7
+M,Germany,11
+M,Great Britain,30
+M,Greece,7
+M,Grenada,2
+M,Guatemala,1
+M,"Hong Kong, China",1
+M,Hungary,11
+M,IR Iran,10
+M,India,4
+M,Indonesia,2
+M,Ireland,5
+M,Israel,3
+M,Italy,23
+M,Jamaica,5
+M,Japan,23
+M,Jordan,1
+M,Kazakhstan,5
+M,Kenya,4
+M,Korea,10
+M,Kyrgyzstan,4
+M,Lithuania,2
+M,Malaysia,2
+M,Mexico,3
+M,Morocco,2
+M,Netherlands,11
+M,New Zealand,5
+M,Norway,4
+M,Pakistan,1
+M,Peru,1
+M,Philippines,2
+M,Poland,2
+M,Portugal,3
+M,Puerto Rico,1
+M,Qatar,1
+M,Republic of Moldova,3
+M,Romania,3
+M,Serbia,3
+M,Singapore,1
+M,Slovakia,1
+M,Slovenia,1
+M,South Africa,3
+M,Spain,12
+M,Sweden,5
+M,Switzerland,2
+M,Tajikistan,3
+M,Thailand,3
+M,Tunisia,3
+M,Türkiye,2
+M,Uganda,1
+M,Ukraine,6
+M,United States,52
+M,Uzbekistan,11
+M,Zambia,1
+Male,Afghanistan,2
+Male,Algeria,14
+Male,Argentina,245
+Male,Armenia,18
+Male,Australasia,43
+Male,Australia,883
+Male,Austria,390
+Male,Azerbaijan,36
+Male,Barbados,1
+Male,Belarus,65
+Male,Belgium,489
+Male,Bermuda,1
+Male,Bohemia,8
+Male,Botswana,6
+Male,Brazil,398
+Male,Bulgaria,216
+Male,Burkina Faso,1
+Male,Burundi,1
+Male,Cameroon,21
+Male,Canada,969
+Male,Chile,36
+Male,Chinese Taipei,39
+Male,Colombia,17
+Male,Croatia,145
+Male,Cuba,338
+Male,Cyprus,1
+Male,Czechia,120
+Male,Czechoslovakia,406
+Male,Côte d'Ivoire,2
+Male,Democratic People's Republic of Korea,34
+Male,Denmark,513
+Male,Djibouti,1
+Male,Dominican Republic,35
+Male,East Germany,575
+Male,Ecuador,3
+Male,Egypt,29
+Male,Eritrea,1
+Male,Estonia,46
+Male,Ethiopia,32
+Male,Fiji,26
+Male,Finland,815
+Male,France,1657
+Male,Gabon,1
+Male,Georgia,39
+Male,Germany,1667
+Male,Ghana,24
+Male,Great Britain,1867
+Male,Greece,131
+Male,Grenada,3
+Male,Guatemala,1
+Male,Guyana,1
+Male,Haiti,6
+Male,"Hong Kong, China",3
+Male,Hungary,927
+Male,Iceland,16
+Male,Independent Olympic Athletes,3
+Male,India,252
+Male,Indonesia,29
+Male,Iraq,1
+Male,Ireland,31
+Male,Islamic Republic of Iran,75
+Male,Israel,14
+Male,Italy,1477
+Male,Jamaica,76
+Male,Japan,715
+Male,Jordan,3
+Male,Kazakhstan,58
+Male,Kenya,93
+Male,Kingdom of Saudi Arabia,7
+Male,Kuwait,3
+Male,Kyrgyzstan,5
+Male,Latvia,45
+Male,Lebanon,4
+Male,Liechtenstein,4
+Male,Lithuania,51
+Male,Luxembourg,7
+Male,Malaysia,15
+Male,Mauritius,1
+Male,Mexico,123
+Male,Monaco,1
+Male,Mongolia,24
+Male,Morocco,20
+Male,Namibia,4
+Male,Nepal,21
+Male,Netherlands,714
+Male,Netherlands Antilles,1
+Male,New Zealand,206
+Male,Niger,2
+Male,Nigeria,98
+Male,North Macedonia,2
+Male,Norway,897
+Male,Pakistan,140
+Male,Panama,3
+Male,Paraguay,22
+Male,People's Republic of China,417
+Male,Peru,3
+Male,Philippines,11
+Male,Poland,474
+Male,Portugal,38
+Male,Puerto Rico,8
+Male,Qatar,9
+Male,ROC,182
+Male,Republic of Korea,401
+Male,Republic of Moldova,7
+Male,Romania,314
+Male,Russian Federation,601
+Male,Russian Olympic Committee,182
+Male,San Marino,2
+Male,Senegal,1
+Male,Serbia,77
+Male,Serbia and Montenegro,62
+Male,Singapore,2
+Male,Slovakia,68
+Male,Slovenia,44
+Male,South Africa,107
+Male,Soviet Union,1845
+Male,Spain,430
+Male,Sri Lanka,1
+Male,Sudan,1
+Male,Suriname,2
+Male,Sweden,1361
+Male,Switzerland,610
+Male,Syrian Arab Republic,3
+Male,Tajikistan,3
+Male,Thailand,16
+Male,The Bahamas,27
+Male,Togo,1
+Male,Tonga,1
+Male,Trinidad and Tobago,34
+Male,Tunisia,12
+Male,Türkiye,92
+Male,Uganda,10
+Male,Ukraine,100
+Male,Unified Team,167
+Male,United Arab Emirates,2
+Male,United Arab Republic,2
+Male,United Republic of Tanzania,2
+Male,United States,4125
+Male,United States Virgin Islands,1
+Male,Uruguay,76
+Male,Uzbekistan,35
+Male,Venezuela,14
+Male,Vietnam,4
+Male,West Germany,463
+Male,West Indies Federation,7
+Male,Yugoslavia,359
+Male,Zambia,2
+O,Australia,1
+O,China,1
+O,Denmark,1
+O,France,2
+O,Germany,5
+O,Great Britain,5
+O,Japan,1
+O,Netherlands,1
+O,Spain,1
+O,Switzerland,1
+O,United States,2
+W,AIN,2
+W,Algeria,2
+W,Argentina,1
+W,Australia,30
+W,Austria,2
+W,Bahrain,2
+W,Belgium,5
+W,Brazil,12
+W,Bulgaria,2
+W,Canada,17
+W,Chile,1
+W,China,51
+W,Chinese Taipei,4
+W,Colombia,2
+W,Croatia,4
+W,Cuba,3
+W,Czechia,1
+W,DPR Korea,4
+W,Denmark,3
+W,Dominica,1
+W,Dominican Republic,1
+W,EOR,1
+W,Ecuador,3
+W,Egypt,1
+W,Ethiopia,2
+W,France,23
+W,Germany,15
+W,Great Britain,28
+W,Greece,1
+W,Guatemala,1
+W,"Hong Kong, China",3
+W,Hungary,8
+W,IR Iran,2
+W,India,1
+W,Indonesia,1
+W,Ireland,2
+W,Israel,4
+W,Italy,15
+W,Jamaica,1
+W,Japan,18
+W,Kazakhstan,1
+W,Kenya,7
+W,Korea,17
+W,Kosovo,2
+W,Kyrgyzstan,2
+W,Lithuania,2
+W,Mexico,2
+W,Mongolia,1
+W,Netherlands,21
+W,New Zealand,14
+W,Norway,4
+W,Panama,1
+W,Philippines,2
+W,Poland,8
+W,Portugal,1
+W,Puerto Rico,1
+W,Republic of Moldova,1
+W,Romania,6
+W,Saint Lucia,2
+W,Serbia,1
+W,Slovenia,2
+W,South Africa,3
+W,Spain,4
+W,Sweden,5
+W,Switzerland,5
+W,Thailand,3
+W,Türkiye,5
+W,Uganda,1
+W,Ukraine,6
+W,United States,67
+W,Uzbekistan,2
+X,Argentina,1
+X,Australia,2
+X,Austria,1
+X,Brazil,1
+X,Canada,1
+X,China,6
+X,Czechia,1
+X,DPR Korea,1
+X,Ecuador,1
+X,France,1
+X,Germany,2
+X,Great Britain,2
+X,India,1
+X,Italy,2
+X,Japan,3
+X,Kazakhstan,1
+X,Korea,5
+X,Netherlands,1
+X,New Zealand,1
+X,Serbia,1
+X,Spain,1
+X,Sweden,1
+X,Türkiye,1
+X,United States,5

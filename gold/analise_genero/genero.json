@@ -1,0 +1,13 @@
+{
+    "nome_dataset": "genero",
+    "fonte": "dados olimpicos",
+    "descricao": "Dataset de genero",
+    "data_coleta": "2026-03-29",
+    "campos": [
+        "sex",
+        "country",
+        "total"
+    ],
+    "qtd_linhas": 450,
+    "observacoes": "Gerado automaticamente"
+}

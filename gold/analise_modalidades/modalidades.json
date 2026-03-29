@@ -1,0 +1,13 @@
+{
+    "nome_dataset": "modalidades",
+    "fonte": "dados olimpicos",
+    "descricao": "Dataset de modalidades",
+    "data_coleta": "2026-03-29",
+    "campos": [
+        "sport",
+        "country",
+        "total"
+    ],
+    "qtd_linhas": 1860,
+    "observacoes": "Gerado automaticamente"
+}

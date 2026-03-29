@@ -1,0 +1,14 @@
+{
+    "nome_dataset": "historico",
+    "fonte": "dados olimpicos",
+    "descricao": "Dataset de historico",
+    "data_coleta": "2026-03-29",
+    "campos": [
+        "sex",
+        "country",
+        "sport",
+        "medal"
+    ],
+    "qtd_linhas": 44996,
+    "observacoes": "Gerado automaticamente"
+}
