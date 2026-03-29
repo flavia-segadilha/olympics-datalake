@@ -1,0 +1,11 @@
+{
+  "schema": {
+    "nome_dataset": "string",
+    "fonte": "string",
+    "descricao": "string",
+    "data_coleta": "date",
+    "campos": ["string"],
+    "qtd_linhas": "integer",
+    "observacoes": "string"
+  }
+}
