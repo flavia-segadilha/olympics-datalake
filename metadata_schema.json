@@ -6,6 +6,5 @@
     "data_coleta": "date",
     "campos": ["string"],
     "qtd_linhas": "integer",
-    "observacoes": "string"
   }
 }

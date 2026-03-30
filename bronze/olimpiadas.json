@@ -1,6 +1,6 @@
 {
     "nome_dataset": "olimpiadas",
-    "fonte": "dados olimpicos",
+    "fonte": "dataset concatenado",
     "descricao": "Dataset de olimpiadas",
     "data_coleta": "2026-03-29",
     "campos": [
@@ -9,6 +9,5 @@
         "sport",
         "medal"
     ],
-    "qtd_linhas": 46041,
-    "observacoes": "Gerado automaticamente"
+    "qtd_linhas": 46041
 }

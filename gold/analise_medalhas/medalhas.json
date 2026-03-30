@@ -1,12 +1,11 @@
 {
     "nome_dataset": "medalhas",
-    "fonte": "dados olimpicos",
+    "fonte": "criado automaticamente",
     "descricao": "Dataset de medalhas",
     "data_coleta": "2026-03-29",
     "campos": [
         "country",
         "total"
     ],
-    "qtd_linhas": 165,
-    "observacoes": "Gerado automaticamente"
+    "qtd_linhas": 165
 }
